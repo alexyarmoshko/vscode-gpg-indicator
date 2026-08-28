@@ -88,6 +88,10 @@ and the key ID is the hex string after the algorithm identifier.
 
 ## Release Notes
 
+### 0.7.6
+
+Fix the status indicator in Remote SSH workspaces.
+
 ### 0.7.5
 
 Fix critical bug which breaks version 0.7.4
