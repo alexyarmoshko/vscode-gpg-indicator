@@ -4,10 +4,11 @@ All notable changes to the "gpg-indicator" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.7.6] - 2026-08-28
+## [0.7.6] - 2026-09-04
 ### Fixed
-- Run the extension on the remote workspace host during Remote SSH sessions
-- Give the GPG status bar item a stable identity
+- Show the status bar item again in Remote SSH windows, where the anonymous
+  status bar entry identifier could collide with an entry from the local
+  extension host
 
 ## [0.7.5] - 2025-03-27
 ### Fixed

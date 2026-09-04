@@ -25,9 +25,6 @@
         "workspaceContains:/.git"
     ],
     "main": "./dist/extension.js",
-    "extensionKind": [
-        "workspace"
-    ],
     "l10n": "./l10n",
     "contributes": {
         "commands": [
